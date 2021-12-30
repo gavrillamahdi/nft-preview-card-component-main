@@ -38,7 +38,7 @@ Here the screenshot of my web for the solution I've built
 
 ### Links
 
-- Live Site URL: [NFT preview card component](https://github.com/gavrillamahdi/nft-preview-card-component-main)
+- Live Site URL: [NFT preview card component](https://gavrillamahdi.github.io/nft-preview-card-component-main/)
 
 ## My process
 
