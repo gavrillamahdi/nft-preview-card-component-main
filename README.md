@@ -7,7 +7,7 @@ Hello, my name is [gavrillamahdi](https://github.com/gavrillamahdi) and this is 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  <!-- - [Links](#links) -->
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -36,10 +36,9 @@ Here the screenshot of my web for the solution I've built
   <img src="./screenshots/mobile.png" alt="NFT preview card component challenge on Frontend Mentor Desktop Solution"/>
 </p>
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL: [NFT preview card component](https://github.com/gavrillamahdi/nft-preview-card-component-main)
 
 ## My process
 
