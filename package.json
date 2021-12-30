@@ -1,0 +1,15 @@
+{
+  "name": "nft-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind-watch": "tailwindcss -i ./src/input.css -o ./src/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.8"
+  }
+}
