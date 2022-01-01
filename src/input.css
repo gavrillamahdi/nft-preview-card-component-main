@@ -4,14 +4,19 @@
 
 @layer base {
   body {
-    @apply font-outfit;
+    @apply font-outfit text-lg;
   }
 
   h1 {
-    @apply font-medium;
+    @apply font-semibold text-2xl;
   }
 
   svg {
     @apply inline mr-2;
   }
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
 }
