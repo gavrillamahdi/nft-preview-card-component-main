@@ -462,11 +462,6 @@ svg {
   margin-bottom: 1.5rem;
 }
 
-.my-3 {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -524,6 +519,10 @@ svg {
   justify-content: center;
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
 .rounded-lg {
   border-radius: 0.5rem;
 }
@@ -543,11 +542,6 @@ svg {
 .border-white {
   --tw-border-opacity: 1;
   border-color: hsl(0 0% 100% / var(--tw-border-opacity));
-}
-
-.border-t-softblue {
-  --tw-border-opacity: 1;
-  border-top-color: hsl(215 51% 70% / var(--tw-border-opacity));
 }
 
 .border-t-darkblue-700 {
@@ -608,10 +602,6 @@ svg {
   opacity: 0;
 }
 
-.opacity-20 {
-  opacity: 0.2;
-}
-
 .shadow-sm {
   --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
   --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
@@ -621,6 +611,15 @@ svg {
 .attribution {
   font-size: 11px;
   text-align: center;
+}
+
+.hover\:text-cyan:hover {
+  --tw-text-opacity: 1;
+  color: hsl(178 100% 50% / var(--tw-text-opacity));
+}
+
+.hover\:opacity-100:hover {
+  opacity: 1;
 }
 
 .active\:text-cyan:active {
